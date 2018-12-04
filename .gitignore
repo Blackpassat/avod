@@ -32,3 +32,6 @@ avod.egg-info/
 
 # tf_profiler
 *.json
+
+#vitual env
+avod_env/
